@@ -1,0 +1,9 @@
+{% assign props = item.props %}
+
+{% if props.thumb %}
+	{% assign thumb = props.thumb %}
+{% else %}
+	{% assign thumb = props.img %}
+{% endif %}
+
+<image src="{{thumb.src}}" width="{{thumb.width | divided_by: 4}}" height="{{thumb.height | divided_by: 4}}"/>

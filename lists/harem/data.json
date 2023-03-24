@@ -1,0 +1,142 @@
+{
+	"rankings": [
+		{
+			"title": "Helltaker - Best Girl",
+			"state": "m8IgxjiJYRLD9EkcnJOY2Nm4JrEyTmJmYQAA"
+		}
+	],
+	"items": [
+		{
+			"name": "Pandemonica",
+			"props": {
+				"url": "https://helltaker.fandom.com/wiki/Pandemonica",
+				"img": {
+					"src": "assets/pandemonica.png",
+					"width": 550,
+					"height": 700
+				},
+				"alias": "The Tired Demon"
+			}
+		},
+		{
+			"name": "Modeus",
+			"props": {
+				"url": "https://helltaker.fandom.com/wiki/Modeus",
+				"img": {
+					"src": "assets/modeus.png",
+					"width": 540,
+					"height": 748
+				},
+				"alias": "The Lustful Demon"
+			}
+		},
+		{
+			"name": "Cerberus",
+			"props": {
+				"url": "https://helltaker.fandom.com/wiki/Cerberus",
+				"img": {
+					"src": "assets/cerberus.png",
+					"width": 1015,
+					"height": 748
+				},
+				"alias": "The Triple Demon"
+			}
+		},
+		{
+			"name": "Malina",
+			"props": {
+				"url": "https://helltaker.fandom.com/wiki/Malina",
+				"img": {
+					"src": "assets/malina.png",
+					"width": 480,
+					"height": 665
+				},
+				"alias": "The Sour Demon"
+			}
+		},
+		{
+			"name": "Zdrada",
+			"props": {
+				"url": "https://helltaker.fandom.com/wiki/Zdrada",
+				"img": {
+					"src": "assets/zdrada.png",
+					"width": 644,
+					"height": 708
+				},
+				"alias": "The Bitch Demon"
+			}
+		},
+		{
+			"name": "Azazel",
+			"props": {
+				"url": "https://helltaker.fandom.com/wiki/Azazel",
+				"img": {
+					"src": "assets/azazel.png",
+					"width": 475,
+					"height": 675
+				},
+				"alias": "The Curious Angel"
+			}
+		},
+		{
+			"name": "Justice",
+			"props": {
+				"url": "https://helltaker.fandom.com/wiki/Justice",
+				"img": {
+					"src": "assets/justice.png",
+					"width": 580,
+					"height": 684
+				},
+				"alias": "The Awesome Demon"
+			}
+		},
+		{
+			"name": "Lucifer",
+			"props": {
+				"url": "https://helltaker.fandom.com/wiki/Lucifer",
+				"img": {
+					"src": "assets/lucifer.png",
+					"width": 580,
+					"height": 730
+				},
+				"alias": "CEO of Hell"
+			}
+		},
+		{
+			"name": "Judgement",
+			"props": {
+				"url": "https://helltaker.fandom.com/wiki/Judgement",
+				"img": {
+					"src": "assets/judgement.png",
+					"width": 915,
+					"height": 748
+				},
+				"alias": "The High Prosecutor"
+			}
+		},
+		{
+			"name": "Beelzebub",
+			"props": {
+				"url": "https://helltaker.fandom.com/wiki/Beelzebub",
+				"img": {
+					"src": "assets/beelzebub.png",
+					"width": 736,
+					"height": 748
+				},
+				"alias": "The Great Fly"
+			}
+		},
+		{
+			"name": "Loremaster",
+			"props": {
+				"url": "https://helltaker.fandom.com/wiki/Loremaster",
+				"img": {
+					"src": "assets/loremaster.png",
+					"width": 584,
+					"height": 748
+				},
+				"alias": "The Science Demon"
+			}
+		}
+	]
+}

@@ -1,0 +1,19 @@
+<div class="text-center">
+	<h1>Helltaker</h1>
+
+	<p>Fansort for the game <a href="https://helltaker.fandom.com/wiki/Helltaker_Wiki">Helltaker</a>. For more fansorts, check out <a href="https://github.com/floofnoodlecode?tab=repositories&q=fansort&type=&language=&sort=name">my other repos</a>.</p>
+</div>
+
+<ul class="list-group">
+	{% for list in lists %}
+		<button id="{{list.id}}" class="list-group-item list-group-item-action d-flex align-items-center p-1">
+			<div class="overflow-hidden position-relative" style="width: 64px; height: 64px">
+				<img src="{{list.dir | concat: 'assets/lucifer.png'}}" alt="logo-{{list.id}}" width="140"
+					class="border bg-light position-absolute translate-middle-x start-50" style="margin-top: -20px; margin-left: 5px">
+			</div>
+			<div class="ms-2">
+				<h3 class="m-0 fw-normal">{{list.title | split: " - " | slice: 1 | join: " - "}}</h3>
+			</div>
+		</button>
+	{% endfor %}
+</ul>
